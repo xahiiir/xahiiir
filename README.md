@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xahiiir
-- 👀 I’m interested in web development,Penetration testing,networking etc.
+- 👀 I’m interested in web development,networking etc.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on a web development project.
 - 📫 you can reach me on these platforms:
